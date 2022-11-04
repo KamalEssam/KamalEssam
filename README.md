@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CMP]()**
-
 - 👨‍💻 All of my projects are available at **[My github repos](https://github.com/KamalEssam?tab=repositories)**
 
 - 📫 How to reach me **Eng.Kamalessam@hotmail.com**
